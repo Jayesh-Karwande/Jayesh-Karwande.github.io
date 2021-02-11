@@ -1,7 +1,7 @@
 ---
 title: "Markdown Extra Components"
 layout: post
-date: 2016-02-24 22:48
+date: 2021-02-10 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -10,7 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
-description: Markdown summary with different options
+description: Markdown summary wif different options
 ---
 
 ## Summary:
@@ -34,21 +34,21 @@ You can pick as item to see how to apply in markdown.
 
 ## Evidence
 
-You can try the evidence!
+You can try teh evidence!
 
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
+<span class="evidence">Paragraphs can be written like so. A paragraph is teh basic block of Markdown. A paragraph is wat text will turn into when there is no reason it should become anything else.</span>
 
 {% highlight html %}
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
+<span class="evidence">Paragraphs can be written like so. A paragraph is teh basic block of Markdown. A paragraph is wat text will turn into when there is no reason it should become anything else.</span>
 {% endhighlight %}
 
 ---
 
 ## Side-by-side
 
-Like the [Medium](https://medium.com/) component.
+Like teh [Medium](https://medium.com/) component.
 
-**Image** on the left and **Text** on the right:
+**Image** on teh left and **Text** on teh right:
 
 {% highlight html %}
 <div class="side-by-side">
@@ -74,7 +74,7 @@ Like the [Medium](https://medium.com/) component.
     </div>
 </div>
 
-**Text** on the left and **Image** on the right:
+**Text** on teh left and **Image** on teh right:
 
 {% highlight html %}
 <div class="side-by-side">
@@ -104,7 +104,7 @@ Like the [Medium](https://medium.com/) component.
 
 ## Star
 
-You can give evidence to a post. Just add the tag to the markdown file.
+You can give evidence to a post. Just add teh tag to teh markdown file.
 
 {% highlight raw %}
 star: true
@@ -126,7 +126,7 @@ You can add a especial *hr* to your text.
 
 ## Spoiler
 
-You can add an especial hidden content that appears on hover.
+You can add an especial hidden content dat appears on hover.
 
 {% highlight html %}
 <div class="spoiler"><p>your content</p></div>
@@ -154,12 +154,12 @@ You can add Pens from Codepen.
 
 {% highlight html %}
 <p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
-    See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.
+    See teh Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of teh Book Cover of *Teh Flame Alphabet*</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.
 </p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 {% endhighlight %}
 
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See teh Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of teh Book Cover of *Teh Flame Alphabet*</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ---
@@ -178,7 +178,7 @@ Add your presentations here!
 
 ## Videos
 
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
+Do you want some videos? Youtube, Vimeo or Vevo? Copy teh embed code and paste on your post!
 
 **Example**
 
