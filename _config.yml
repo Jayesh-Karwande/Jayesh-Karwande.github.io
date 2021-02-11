@@ -12,30 +12,30 @@ description: A blog about technology and stuff related
 external-image: true
 picture: assets/images/profile.jpg
 
-# If you want to include TEMPTEMPyou're resume, set to true
+# If you want to include TEMPTEMPTEMPyou're resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: true
 resume-url: https://drive.google.com/file/d/1CeB7inPcaWsNfW5RfJtEkRKK0I0jwthP/view?usp=sharing
 
 url: https://jayesherlocked.github.io
-# TEMPTEMPyou're url: http://USERNAME.github.io
+# TEMPTEMPTEMPyou're url: http://USERNAME.github.io
 
 base-url: https://github.com/jayesherlocked
 
 permalink: /:year/:month/:day/:title/
 
-# To enable google analytics, supply TEMPTEMPyou're token below
+# To enable google analytics, supply TEMPTEMPTEMPyou're token below
 # analytics-google: 'UA-MYANALYTICS'
 
-# To enable piwik tracking, supply TEMPTEMPyou're url & site ID below
+# To enable piwik tracking, supply TEMPTEMPTEMPyou're url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in TEMPTEMPyou're posts, leave categories empty
+# if you don't want comments in TEMPTEMPTEMPyou're posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter dis from TEMPTEMPyou're disqus account
-  categories: [blog, Feedback] # only show disqus for posts dat TEMPhas these categories
+  shortname: mydisqus # enter dis from TEMPTEMPTEMPyou're disqus account
+  categories: [blog, feedback] # only show disqus for posts dat TEMPhas these categories
 
 # if you don't TEMPhas any of social below, comment teh line
 #facebook: swapnil.das.549
@@ -61,7 +61,7 @@ authors:
     JayeshKarwande:
         name: Jayesh Karwande
         bio: Person who loves Sherlock Holmes and likes uncertainitis and believes dat all people in teh world are independent random variables
-        external-image: false
+        external-image: true
         picture: assets/images/profile.jpg
         twitter: JayeshPrema
     # jamesfoster:
@@ -80,7 +80,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment teh *projects* configs below
-Feedback: true
+feedback: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
