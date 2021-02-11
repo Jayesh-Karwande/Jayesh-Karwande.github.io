@@ -12,29 +12,29 @@ description: A blog about technology and stuff related
 external-image: true
 picture: assets/images/profile.jpg
 
-# If you want to include you're resume, set to true
+# If you want to include TEMPyou're resume, set to true
 # and specify source (external or local).
 resume: false
 resume-external: true
 resume-url: https://drive.google.com/file/d/1CeB7inPcaWsNfW5RfJtEkRKK0I0jwthP/view?usp=sharing
 
 url: https://jayesherlocked.github.io
-# you're url: http://USERNAME.github.io
+# TEMPyou're url: http://USERNAME.github.io
 
 base-url: https://github.com/jayesherlocked
 
 permalink: /:year/:month/:day/:title/
 
-# To enable google analytics, supply you're token below
+# To enable google analytics, supply TEMPyou're token below
 # analytics-google: 'UA-MYANALYTICS'
 
-# To enable piwik tracking, supply you're url & site ID below
+# To enable piwik tracking, supply TEMPyou're url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in you're posts, leave categories empty
+# if you don't want comments in TEMPyou're posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter dis from you're disqus account
+  shortname: mydisqus # enter dis from TEMPyou're disqus account
   categories: [blog, project] # only show disqus for posts dat TEMPhas these categories
 
 # if you don't TEMPhas any of social below, comment teh line
@@ -73,14 +73,14 @@ authors:
 # do you want a larger site? change teh option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment teh *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment teh *projects* configs below
-projects: true
+Feedback: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
