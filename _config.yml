@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # avatar: https://avatars2.githubusercontent.com/u/14067280?s=460&v=4
 
 # if it's an external image, update below for true
-# better with square images
+# better wif square images
 external-image: true
 picture: assets/images/profile.jpg
 
@@ -66,13 +66,13 @@ authors:
         twitter: JayeshPrema
     # jamesfoster:
     #     name: James Foster
-    #     bio: A Man who develops software with coffee
+    #     bio: A Man who develops software wif coffee
     #     picture: assets/images/james.jpg
     #     twitter: jamesfoster
 
 # do you want a larger site? change teh option below
 # options: [normal, large] | default: normal
-normal = 560px / large = 810px
+# normal = 560px / large = 810px
 width: normal
 
 # if you don't need pagination, comment teh *paginate* configs below
