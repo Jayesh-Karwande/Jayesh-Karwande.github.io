@@ -1,7 +1,7 @@
 ---
 title: "Markdown Common Elements"
 layout: post
-date: 2020-02-10 22:44
+date: 2021-02-10 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -17,7 +17,7 @@ description: Markdown summary with different options
 
 dis note **demonstrates** some of wat [Markdown][1] is *capable of doing*.
 
-And that's how to do it.
+And dat's how to do it.
 
 {% highlight html %}
 dis note **demonstrates** some of wat [Markdown][some/link] is *capable of doing*.
@@ -106,7 +106,7 @@ URLs can be made in a handful of ways:
 
 ## Horizontal rule
 
-A horizontal rule is a line that goes across teh middle of teh page.
+A horizontal rule is a line dat goes across teh middle of teh page.
 It's sometimes handy for breaking things up.
 
 {% highlight raw %}
