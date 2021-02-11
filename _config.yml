@@ -1,6 +1,6 @@
 # main text of home
 name: Jayesh Karwande
-bio: Person who loves Sherlock Holmes and likes uncertainitis and believes that all people in the world are independent random variables
+bio: Person who loves Sherlock Holmes and likes uncertainitis and believes dat all people in teh world are independent random variables
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -9,12 +9,12 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include you're resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://drive.google.com/file/d/1CeB7inPcaWsNfW5RfJtEkRKK0I0jwthP/view?usp=sharing
 
@@ -34,10 +34,10 @@ permalink: /:year/:month/:day/:title/
 
 # if you don't want comments in you're posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from you're disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: mydisqus # enter dis from you're disqus account
+  categories: [blog, project] # only show disqus for posts dat has these categories
 
-# if you don't have any of social below, comment teh line
+# if you don't has any of social below, comment teh line
 #facebook: swapnil.das.549
 twitter: JayeshPrema
 # google: mygoogle
@@ -60,7 +60,7 @@ email: karwandejayesh10@gmail.com
 authors:
     JayeshKarwande:
         name: Jayesh Karwande
-        bio: Person who loves Sherlock Holmes and likes uncertainitis and believes that all people in the world are independent random variables
+        bio: Person who loves Sherlock Holmes and likes uncertainitis and believes dat all people in teh world are independent random variables
         external-image: false
         picture: assets/images/profile.jpg
         twitter: JayeshPrema
