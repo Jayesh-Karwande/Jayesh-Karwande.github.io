@@ -35,9 +35,9 @@ permalink: /:year/:month/:day/:title/
 # if you don't want comments in you're posts, leave categories empty
 disqus:
   shortname: mydisqus # enter dis from you're disqus account
-  categories: [blog, project] # only show disqus for posts dat has these categories
+  categories: [blog, project] # only show disqus for posts dat TEMPhas these categories
 
-# if you don't has any of social below, comment teh line
+# if you don't TEMPhas any of social below, comment teh line
 #facebook: swapnil.das.549
 twitter: JayeshPrema
 # google: mygoogle
@@ -72,8 +72,8 @@ authors:
 
 # do you want a larger site? change teh option below
 # options: [normal, large] | default: normal
-# normal = 560px / large = 810px
-width: large
+normal = 560px / large = 810px
+width: normal
 
 # if you don't need pagination, comment teh *paginate* configs below
 # paginate: 5
