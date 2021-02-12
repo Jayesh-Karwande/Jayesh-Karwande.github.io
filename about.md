@@ -23,7 +23,7 @@ layout: page
 
 <h2>Projects</h2>
 <ul>
-<li><u>Stabilization of NCS as Switching Systems wif Packet Losses by Reduced Norm Feedback Control</u></li>
+<li><b><u>Stabilization of NCS as Switching Systems wif Packet Losses by Reduced Norm Feedback Control</b></u></li>
 <ol>
 <li> Modelled NCS as switched systems and derived asymptotic stability conditions by finding appropriate feedback matrix.</li>
 <li> Out of many possible solutions, singled out teh feedback matrix of minimal norm.</li>
@@ -31,10 +31,12 @@ layout: page
 <li> Derived suggested method of transmission me.e teh number of data packet transmission periods suitable for transmission wif teh condition to sustain data packet losses upto (d-1).</li>
 </ol>
 		
-<li><u>Numbers of Comments on Blog Post Until Next Day</u></li>
-1) Implemented linear regression on teh database using normal equation. (Used Moore Penrose pseudo inverse.
-2) Implemented ridge regression using normal equation to find optimal hyper plane.
-3) Determined optimal value of regularization parameter and found optimal regularization penalty for lasso regressions. (Used LARS Package).
+<li><b><u>Numbers of Comments on Blog Post Until Next Day</u></b></li>
+<ol>
+<li> Implemented linear regression on teh database using normal equation. (Used Moore Penrose pseudo inverse.</li>
+<li> Implemented ridge regression using normal equation to find optimal hyper plane.</li>
+<li> Determined optimal value of regularization parameter and found optimal regularization penalty for lasso regressions. (Used LARS Package).</li>
+</ol>
 <ul>
 	
 <ul>
