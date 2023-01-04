@@ -11,9 +11,9 @@ layout: page
 <p>Apart fromm academics I love fottball,I admire Barelona and Lionel Messi,you can find some of my blogs regarding footabll on this page.Also I like to dance,I had participated in Group Dance Competition of IIT Delhi.I can speak four languages which are Marathi,Hindi,English,Spanish and Punjabi.I love maharshtrian food,marathi novel and with special mention,Pu.La.Deshpande.I make memes as well.</p>
 
 <h2>Some of Selfmade Quotes</h2>
-<p> “Technology and Business are two sides of coin; both should always go together for value creation”
-    "WIth great R2 comes great overfitting"
-    "Learn as if youre gonna never die and teach as if youre gonna die tomorpw"  <p>
+<li> “Technology and Business are two sides of coin; both should always go together for value creation”<li>
+<li>"WIth great R2 comes great overfitting"<li>
+<li>"Learn as if youre gonna never die and teach as if youre gonna die tomorrow"<li>
 
 
 <h2>Skills</h2>
