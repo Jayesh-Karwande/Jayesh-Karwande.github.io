@@ -1,6 +1,7 @@
 # main text of home
 name: Jayesh Karwande
 bio: Person who loves Sherlock Holmes and likes uncertainitis and believes that all people in the world are independent random variables
+quote : “Technology and Business are two sides of coin; both should always go together for value creation- Jayesh”
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -60,7 +61,7 @@ email: karwandejayesh10@gmail.com
 authors:
     JayeshKarwande:
         name: Jayesh Karwande
-        “Technology and Business are two sides of coin; both should always go together for value creation- Jayesh”
+        quote : “Technology and Business are two sides of coin; both should always go together for value creation- Jayesh”
         bio: Person who loves Sherlock Holmes and likes uncertainitis and believes dat all people in teh world are independent random variables
         external-image: True
         picture: assets/images/profile.jpg
