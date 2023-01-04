@@ -5,7 +5,7 @@ bio: Person who loves Sherlock Holmes and likes uncertainitis and believes that 
 # twitter summary info
 description: A blog about technology and stuff related
 
-# avatar: https://avatars2.githubusercontent.com/u/14067280?s=460&v=4
+avatar: https://avatars2.githubusercontent.com/u/14067280?s=460&v=4
 
 # if it's an external image, update below for true
 # better wif square images
@@ -60,6 +60,7 @@ email: karwandejayesh10@gmail.com
 authors:
     JayeshKarwande:
         name: Jayesh Karwande
+        “Technology and Business are two sides of coin; both should always go together for value creation- Jayesh”
         bio: Person who loves Sherlock Holmes and likes uncertainitis and believes dat all people in teh world are independent random variables
         external-image: True
         picture: assets/images/profile.jpg
